@@ -1,0 +1,31 @@
+/* Corrige le remplissage des cercles de compétence */
+.skill-circle {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.skill-circle svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.skill-circle circle {
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  stroke: #0077b6; /* Couleur par défaut (bleu) */
+}
+
+/* Cercle de fond (gris) */
+.skill-circle circle:first-of-type {
+  stroke: #eee;
+}
+
+/* Cercle de remplissage (couleur) */
+.skill-circle circle:last-of-type {
+  stroke-dasharray: 251.2; /* Circonférence = 2 * π * r (r=40) */
+  stroke-dashoffset: calc(251.2 - (251.2 * var(--percent)) / 100);
+  stroke: var(--skill-color, #0077b6);
+}

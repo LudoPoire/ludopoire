@@ -7,31 +7,30 @@ name:
   family: "Poiré"
   alternate: ""
   pronunciation: ""
-  pronouns: "he/him"
+  # pronouns: "he/him"
 postnominals:
-  - "PhD"
-  - "MIEEE"
+  - "MSc"
 status:
   icon: "🦠"
 role: "PhD Student in bacterial genetics"
 bio: "I'm a 3rd (and final) year PhD student in the Horigene lab (CIRI, Lyon).\n
 Interested in bacterial genetics and their immunity systems.\n
-
-Defense in December 2026, open for positions starting from February 2027 !
-\n"
+Defense in December 2026, open for positions starting from February 2027 !\n"
 affiliations:
   - name: "Horigene lab"
     url: "https://ciri.ens-lyon.fr/teams/horigene"
 links:
-  - icon: "at-symbol"
-    url: "mailto:ludovic.poire@univ-lyon1.fr"
-    label: "E-mail me !"
+  # - icon: "at-symbol"
+  #   url: "mailto:ludovic.poire@univ-lyon1.fr"
+  #   label: "E-mail me !"
   - icon: "brands/x"
     url: "https://x.com/LudoPoire"
   - icon: "brands/bluesky"
     url: "https://bsky.app/profile/ludopoire.bsky.social"
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/ludovic-poiré"
+  - icon: "academicons/researchgate"
+    url: "https://www.researchgate.net/profile/Ludovic_Poire"
   - icon: "academicons/google-scholar"
     url: "https://scholar.google.com/citations?user=10c6QygAAAAJ&hl=fr"
   - icon: "academicons/orcid"
@@ -42,21 +41,23 @@ interests:
   - "Genomics"
 
 education:
-  - degree: "PhD Molecular Microbiology"
+  - degree: "PhD in Molecular Microbiology"
     institution: "Lyon 1 Université Claude Bernard"
     start: "2023"
     end: "2026"
     summary: "x"
     button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
+      text: "Download the manuscript !"
+      url: "/test"
       icon: "hero/arrow-down-tray"
-  - degree: "MSc Infectiology"
-    institution: "Lyon 1 Université Claude Bernar"
+  - degree: "MSc in Molecular and Cell Biology"
+    institution: "Lyon 1 Université Claude Bernard"
+    summary: "Specialized in Fundamental Infectiology. *Cum laude* (rank 1/75)"
     start: "2021"
     end: "2023"
-  - degree: "BSc Biology (International Course)"
+  - degree: "BSc in Biology"
     institution: "Université Grenoble Alpes"
+    summary: "International course. ERASMUS+ exchange (Göteborg University). *Cum laude* (rank 3/195)."
     start: "2018"
     end: "2021"
 experience:
@@ -65,7 +66,7 @@ experience:
     start: "2023"
     summary: "x"
     button:
-      text: "View portfolio"
+      text: "The Horigene team"
       url: "/"
       icon: "hero/arrow-down-tray"
   - role: "AI Research Intern"
@@ -91,15 +92,32 @@ skills:
       - label: "Grant Proposals"
         level: 4
 languages:
-  - name: "English"
+  - name: "French"
     level: 5
     label: "Native"
-  - name: "Spanish"
-    level: 4
+  - name: "English"
+    level: 5
     label: "Fluent"
+  - name: "Spanish"
+    level: 3
+    label: "Intermediate"
+  - name: "Italian"
+    level: 3
+    label: "Intermediate"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
+  - title: "Best Oral Communication Prize"
+    awarder: "FEBS Open Bio (50th FEBS Congress)"
+    date: "2026-07-07"
+    summary: "Best talk prize, sponsored by FEBS Open Bio"
     icon: "hero/trophy"
+  - title: "FRM - Programme Fin de Thèse"
+    awarder: "Fondation pour la Recherche Médicale"
+    date: "2026-07-07"
+    summary: "End of PhD program funding"
+    icon: "hero/check-badge"
+  - title: "Doctoral funding"
+    awarder: "French Ministry for Education and Research"
+    date: "2023-09-31"
+    summary: "Government PhD fellowship"
+    icon: "hero/check-badge"
+

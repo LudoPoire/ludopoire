@@ -31,7 +31,7 @@ hugoblox:
     cta:
       enable: true
       text: Contact
-      url: /#contact
+      url: /contact
   footer:
     style: minimal
     language_switcher: true
