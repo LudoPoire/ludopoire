@@ -15,8 +15,9 @@ date: 2026-07-06
 publishDate: 2026-08-14T17:16:55.220Z
 publication_types:
   - preprint
-publication: bioRxiv
-publication_short: bioRxiv
+publication:
+  name: "bioRxiv"
+  short_name: "bioRxiv"  # Optionnel, mais recommandé pour l'affichage
 abstract: |
   This study uncovered four novel bacterial immune systems (the novel TAR class, comprising Ishtar, Namtar and Attar) that protect against conjugative plasmids like R388 and RP4. This reveals a new defense layer against plasmids, key carriers of antimicrobial resistance genes.
 summary: This study uncovered four novel bacterial immune systems (the novel TAR class, comprising Ishtar, Namtar and Attar) that protect against conjugative plasmids like R388 and RP4.
@@ -27,11 +28,11 @@ tags:
 featured: true
 hugoblox: null
 links:
-  - name: pdf
+  - name: "PDF"
     url: "https://www.biorxiv.org/content/10.64898/2026.07.06.735840v1"
 image:
   filename: widespread.png
-  caption: Widespread immune systems protect bacteria against conjugative plasmids
+  caption: Species-scale diversity in R388 and RP4 plasmid receptivity 
   focal_point: Center
   preview_only: false
 projects: []

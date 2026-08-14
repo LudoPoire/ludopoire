@@ -22,8 +22,9 @@ publishDate: 2026-04-20
 publication_types:
   - preprint
 
-publication: "medRxiv"
-publication_short: "medRxiv"
+publication:
+  name: "medRxiv"
+  short_name: "medRxiv"  # Optionnel, mais recommandé pour l'affichage
 
 abstract: |
   Acinetobacter baumannii is a major cause of severe hospital-acquired infections, with a steadily increasing global prevalence driven by a few clinically adapted lineages. Animals and natural environments also harbor A. baumannii populations, but their connections to clinical lineages remain poorly understood because of sparse genomic data and limited integrated sampling. We conducted a local One Health genomic epidemiology study by sampling, isolating, sequencing, and characterizing A. baumannii from clinical, animal, and environmental contexts. We identified several globally distributed clinical lineages as well as livestock- and environment-associated lineages shared across Europe, revealing widespread dissemination beyond clinical settings and permeable ecological barriers between sectors.
@@ -45,7 +46,7 @@ featured: true
 #     # doi: "10.64898/2026.04.09.26350516"
 
 links:
-  - name: pdf
+  - name: "PDF"
     url: "https://www.medrxiv.org/content/10.64898/2026.04.09.26350516v2"
 
 image:

@@ -19,8 +19,9 @@ publishDate: 2024-10-14
 publication_types:
   - article-journal
 
-publication: "PLOS Biology"
-publication_short: "PLOS Biology"
+publication:
+  name: "PLOS Biology"
+  short_name: "PLOS Biology"  # Optionnel, mais recommandé pour l'affichage
 
 abstract: |
   Natural transformation is the only mechanism of genetic exchange controlled by the recipient bacteria. We quantified natural transformation rates in 786 clinical strains of Legionella pneumophila and 496 clinical and environmental strains of Acinetobacter baumannii. Transformation rates evolved through frequent small changes and occasional large jumps spanning six orders of magnitude. A substantial fraction of strains were below the detection limit, with environmental A. baumannii strains tending to have higher transformation rates than clinical strains. Transitions to non-transformability were frequent and usually recent, suggesting that they can be deleterious and subsequently purged by natural selection. We further found that transformation decreases genetic linkage and that intragenomic conflicts with chromosomal mobile genetic elements and plasmids may contribute to the evolution of natural transformation.
@@ -42,7 +43,7 @@ hugoblox:
     # doi: "10.1371/journal.pbio.3002814"
 
 links:
-  - name: pdf
+  - name: "PDF"
     url: "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002814&type=printable"
 
 
