@@ -32,8 +32,15 @@ jobs:
           hugo-version: '0.164.0'
           extended: true
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Install TailwindCSS
-        run: npm install -g tailwindcss
+        run: |
+          npm install --no-save tailwindcss @tailwindcss/cli @tailwindcss/typography
+          echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
 
       - name: Build
         run: hugo --minify
