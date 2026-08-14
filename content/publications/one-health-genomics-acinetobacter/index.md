@@ -45,8 +45,8 @@ featured: true
 #     # doi: "10.64898/2026.04.09.26350516"
 
 links:
-  - type: pdf
-    url: https://www.medrxiv.org/content/10.64898/2026.04.09.26350516v2
+  type: pdf
+  url: https://www.medrxiv.org/content/10.64898/2026.04.09.26350516v2
 
 image:
   

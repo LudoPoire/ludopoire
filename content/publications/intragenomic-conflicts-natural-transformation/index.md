@@ -42,8 +42,8 @@ hugoblox:
     # doi: "10.1371/journal.pbio.3002814"
 
 links:
-  - type: pdf
-    url: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002814&type=printable
+  type: pdf
+  url: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002814&type=printable
 
 
 image:

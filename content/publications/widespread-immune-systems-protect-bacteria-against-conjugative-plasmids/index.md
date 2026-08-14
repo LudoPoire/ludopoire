@@ -27,8 +27,8 @@ tags:
 featured: true
 hugoblox: null
 links:
-  - type: pdf
-    url: https://www.biorxiv.org/content/10.64898/2026.07.06.735840v1
+  type: pdf
+  url: https://www.biorxiv.org/content/10.64898/2026.07.06.735840v1
 image:
   filename: widespread.png
   caption: Widespread immune systems protect bacteria against conjugative plasmids
