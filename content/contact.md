@@ -27,6 +27,6 @@ sections:
       text: |
 
         <div style="text-align: center; margin-top: 50px;">
-          <a href="../content/gallery.md" style="color: #6b7280; font-style: italic; text-decoration: none;">Link to the hidden gallery !</a>
+          <a href="/gallery" style="color: #6b7280; font-style: italic; text-decoration: none;">Link to the hidden gallery !</a>
         </div>
 ---
