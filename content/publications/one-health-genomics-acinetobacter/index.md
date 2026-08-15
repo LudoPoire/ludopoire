@@ -46,7 +46,7 @@ hugoblox:
 
 image:
   filename: "one.jpg"
-  caption: ""
+  caption: "Phylogeny of the Ab-One collection of samples"
   focal_point: "Center"
   preview_only: false
 

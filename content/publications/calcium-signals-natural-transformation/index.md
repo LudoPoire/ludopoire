@@ -42,7 +42,7 @@ hugoblox:
 
 image:
   filename: "calcium.jpg"
-  caption: ""
+  caption: "Induction of natural competence by calcium ions"
   focal_point: "Center"
   preview_only: false
 
