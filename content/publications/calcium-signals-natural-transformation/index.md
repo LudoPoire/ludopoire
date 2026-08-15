@@ -37,7 +37,7 @@ tags:
 featured: true
 
 links:
-  - name: PDF
+  - type: PDF
     url: https://www.biorxiv.org/content/10.64898/2026.02.23.707608v1
 
 image:
