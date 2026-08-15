@@ -36,6 +36,10 @@ tags:
 
 featured: true
 
+links:
+- type: custom
+  label: PDF
+  url: https://www.biorxiv.org/content/10.64898/2026.02.23.707608v2
 
 image:
   filename: "calcium.jpg"
