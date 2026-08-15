@@ -40,11 +40,6 @@ hugoblox:
   ids: {}
     
 
-links:
-- type: preprint
-  provider: biorxiv
-  id: 2026.02.23.707608v2
-
 image:
   filename: "calcium.jpg"
   caption: ""
@@ -56,3 +51,5 @@ slides: ""
 status: review
 draft: false
 ---
+
+[Read the preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.23.707608v2)
