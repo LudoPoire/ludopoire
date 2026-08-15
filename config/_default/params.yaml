@@ -26,7 +26,7 @@ hugoblox:
     style: navbar
     sticky: true
     align: center
-    search: true
+    search: false
     theme_toggle: true
     cta:
       enable: true

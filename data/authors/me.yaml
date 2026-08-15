@@ -13,7 +13,7 @@ postnominals:
 status:
   icon: "🦠"
 role: "PhD Student in bacterial genetics"
-bio: "I'm a 3rd (and final) year PhD student in the Horigene lab (CIRI, Lyon).\n
+bio: "I'm a 3rd (and final) year PhD student in the Horigene lab (CIRI, Lyon).
 Interested in bacterial genetics and their immunity systems.\n
 Defense in December 2026, open for positions starting from February 2027 !\n"
 affiliations:
@@ -23,10 +23,10 @@ links:
   # - icon: "at-symbol"
   #   url: "mailto:ludovic.poire@univ-lyon1.fr"
   #   label: "E-mail me !"
-  - icon: "brands/x"
-    url: "https://x.com/LudoPoire"
   - icon: "brands/bluesky"
     url: "https://bsky.app/profile/ludopoire.bsky.social"
+  - icon: "brands/x"
+    url: "https://x.com/LudoPoire"
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/ludovic-poiré"
   - icon: "academicons/researchgate"
@@ -38,58 +38,119 @@ links:
 interests:
   - "Microbial immunity"
   - "Bacterial genetics"
-  - "Genomics"
+  - "Protein characterization"
+  - "Large-scale genomics"
+
+
 
 education:
   - degree: "PhD in Molecular Microbiology"
     institution: "Lyon 1 Université Claude Bernard"
     start: "2023"
     end: "2026"
-    summary: "x"
+    summary: "**Grants and funding** : governmental PhD fellowship / FRM End-of-PhD grant.
+     
+     **Training** : Applied biostatistics, Python for Deep Learning"
     button:
-      text: "Download the manuscript !"
-      url: "/test"
-      icon: "hero/arrow-down-tray"
+      text: "More about my PhD !"
+      url: "https://theses.fr/s393337"
+      icon: "hero/academic-cap"
   - degree: "MSc in Molecular and Cell Biology"
     institution: "Lyon 1 Université Claude Bernard"
-    summary: "Specialized in Fundamental Infectiology. *Cum laude* (rank 1/75)"
+    summary: "Specialized in **Fundamental Infectiology**. *Cum laude* (rank 1/75)
+    
+    Took part in **three internship projects** (host-pathogen interactions, microbial genetics, high-throughput assay design and optimization, gene/protein characterization)."
     start: "2021"
     end: "2023"
+    button:
+      text: "Master's website"
+      url: "https://offre-de-formations.univ-lyon1.fr/mention-36/biologie-moleculaire-et-cellulaire.html"
+      icon: "hero/academic-cap"
   - degree: "BSc in Biology"
     institution: "Université Grenoble Alpes"
-    summary: "International course. ERASMUS+ exchange (Göteborg University). *Cum laude* (rank 3/195)."
+    summary: "**International (English-taught) course**. **ERASMUS+** exchange (Göteborg University). *Cum laude* (rank 3/195)."
     start: "2018"
     end: "2021"
+    button:
+      text: "Bachelor's website"
+      url: "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/licence-XA/licence-sciences-de-la-vie-IAIB1MEI/parcours-biologie-international-1re-et-2e-annee-JF2DLOOF.html"
+      icon: "hero/academic-cap"
+
+
+
+
 experience:
   - role: "PhD researcher"
     org: "Centre International de Recherche en Infectiologie (CIRI)"
     start: "2023"
-    summary: "x"
+    end: "2026"
+    summary: "**Title** : Uncovering bacterial immunity against conjugative plasmids in opportunistic pathogens. \n
+- Demonstrated the **phenotypic variability in conjugation rates** at the species scale. \n
+- Identified and characterized **four new defense systems against plasmids** in *A. baumannii*. \n
+
+**Methods used:**
+
+- **High-throughput genomics** : DNA/RNA-Seq, genome annotation, data analysis.
+
+- **Microbiology** : high-throughput screening, assay development and optimization.
+
+- **Molecular biology** : cloning, CRISPRi, functional genetics, flow cytometry, live-cell imaging.
+
+- **Laboratory Safety Training** : routine work with BSL-2 pathogens."
+
     button:
       text: "The Horigene team"
-      url: "/"
+      url: "https://ciri.ens-lyon.fr/teams/horigene"
       icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+
+  - role: "Teaching Assistant"
+    org: "Lyon 1 Université Claude Bernard"
+    start: "2023"
+    end: "2026"
+    summary: "200h, 3 years. 
+    
+Designed and delivered lectures (advanced bacterial genetics), practicals and tutorials for undergraduate courses. Created and graded student assignments."
+
+  - role: "Student Intern"
+    org: "Molecular Microbiology and Structural Biochemistry (MMSB) / Centre International de Recherche en Infectiologie (CIRI)"
+    start: "2021"
+    end: "2023"
+    summary: "Took part in **three internship projects** for a total of 10 months (host-pathogen interactions, microbial genetics, high-throughput assay design and optimization, gene/protein characterization)."
+
+      
+
+  - role: "Teaching Assistant"
+    org: "Groupe Medisup/Edusanté Grenoble"
+    start: "2020"
+    end: "2021"
+    summary: "Designed and taught weekly courses for BSc-level students, >90% satisfaction rate.
+    
+    Developed innovative teaching materials provided support and feedback to improve performance."
+
+    button:
+      text: "Get to know more !"
+      url: "https://medisup.com/mediplus-grenoble/"
+      icon: "hero/arrow-down-tray"
+
+
+
+
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
+      - label: "High-throughput microbiology"
         level: 5
-      - label: "Machine Learning"
+      - label: "NGS and Genomic Analysis"
         level: 5
-      - label: "Cloud Computing"
+      - label: "Protein Characterization"
         level: 4
-  - name: "Research & Communication"
+  - name: "Interpersonal Skills"
     items:
-      - label: "Academic Writing"
+      - label: "Organizational skills"
         level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
+      - label: "Student supervision"
+        level: 5
+      - label: "Scientific communication"
         level: 4
 languages:
   - name: "French"
@@ -108,16 +169,23 @@ awards:
   - title: "Best Oral Communication Prize"
     awarder: "FEBS Open Bio (50th FEBS Congress)"
     date: "2026-07-07"
-    summary: "Best talk prize, sponsored by FEBS Open Bio"
+    summary: "Best talk prize, sponsored by FEBS Open Bio
+    
+    [View the award →](https://febs.onlinelibrary.wiley.com/journal/22115463/prize-winners)"
     icon: "hero/trophy"
   - title: "FRM - Programme Fin de Thèse"
     awarder: "Fondation pour la Recherche Médicale"
     date: "2026-07-07"
-    summary: "End of PhD program funding"
+    summary: "End of PhD program funding
+    
+    
+    [Check the program →](https://www.frm.org/fr/programmes)"
     icon: "hero/check-badge"
   - title: "Doctoral funding"
     awarder: "French Ministry for Education and Research"
     date: "2023-09-31"
-    summary: "Government PhD fellowship"
+    summary: "Government PhD fellowship
+    
+    [Check the procedure →](https://e2m2.universite-lyon.fr/ecoles-doctorales/ed-341-e2m2/site-francais/navigation/admission-et-concours/admission-sur-concours/procedure-concours-69034.kjsp)"
     icon: "hero/check-badge"
 
