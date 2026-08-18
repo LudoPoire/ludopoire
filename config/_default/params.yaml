@@ -47,7 +47,7 @@ hugoblox:
   search:
     enable: true
     suggestions:
-      - LudoPoiré;Acinetobacter;baumannii;plasmids;namtar;ishtar;attar
+      - LudoPoiré;Ludo;Ludovic;Poiré;Acinetobacter;baumannii;plasmids;namtar;ishtar;attar
   seo:
     location:
       address:
@@ -58,4 +58,8 @@ hugoblox:
     ai:
       allow:
         - /
-  verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM }
+    title: Ludo Poiré
+  verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM, bing: A3D404396C7A7FD1D11F3CBBD5AAE8D5 }
+  analytics:
+    google:
+      measurement_id: G-KH711G1Q3J
