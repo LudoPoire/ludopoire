@@ -100,7 +100,7 @@ sections:
       title: Other experiences
       text: "
         **Volunteering** :
-          Board member of UCBL sports department for 5 years, French Basketball Federation volunteer (2020) <br />
+          Board member of UCBL sports department for 5 years, French Basketball Federation volunteer (2020)  <br />
         **Project management** : 
           Led multiple sports-related, non-profit projects : created [3x3UGA](https://3x3uga.wixsite.com/3x3uga) and [Kilom'Health](https://linktr.ee/kilomhealth), member of the board for [Section Basket AS Lyon 1](https://www.instagram.com/sectionbasketaslyon1/)
         "

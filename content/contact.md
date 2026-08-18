@@ -22,10 +22,10 @@ sections:
 
   #       </div>
 
-#  - block: markdown
-#    content:
-#      text: |
-#        <div style="text-align: center; margin-top: 50px;">
-#          <a href="/ludopoire/gallery/" style="color: #6b7280; font-style: italic; text-decoration: none;">Link to the hidden gallery !</a>
-#        </div>
+  #- block: markdown
+  #  content:
+  #    text: |
+  #      <div style="text-align: center; margin-top: 50px;">
+  #        <a href="/ludopoire/gallery/" style="color: #6b7280; font-style: italic; text-decoration: none;">Link to the hidden gallery !</a>
+  #      </div>
 ---
