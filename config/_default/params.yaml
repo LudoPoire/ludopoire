@@ -59,7 +59,7 @@ hugoblox:
       allow:
         - /
     title: Ludo Poiré
-  verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM, bing: A3D404396C7A7FD1D11F3CBBD5AAE8D5 }
+  verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM, bing: '"A3D404396C7A7FD1D11F3CBBD5AAE8D5"' }
   analytics:
     google:
       measurement_id: G-KH711G1Q3J
