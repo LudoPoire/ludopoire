@@ -46,6 +46,8 @@ hugoblox:
       enable: true
   search:
     enable: true
+    suggestions:
+      - LudoPoiré;Acinetobacter;baumannii;plasmids;namtar;ishtar;attar
   seo:
     location:
       address:
@@ -56,4 +58,4 @@ hugoblox:
     ai:
       allow:
         - /
-  verification: {}
+  verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM }
