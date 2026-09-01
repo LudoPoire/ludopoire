@@ -12,10 +12,10 @@ main:
     identifier: 2c5747da
     url: /#papers
     weight: 20
-  - name: News
-    identifier: b3dde7b7
-    url: /#news
-    weight: 30
+  # - name: News
+  #   identifier: b3dde7b7
+  #   url: /#news
+  #   weight: 30
   - name: CV
     identifier: 399e6c5e
     url: /cv
