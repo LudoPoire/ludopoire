@@ -29,3 +29,8 @@
   stroke-dashoffset: calc(251.2 - (251.2 * var(--percent)) / 100);
   stroke: var(--skill-color, #0077b6);
 }
+
+
+.max-w-prose {
+  width: 100% !important;
+}
