@@ -8,8 +8,6 @@ hidden: true
 # Page sections
 sections:
   - block: markdown
-    design:
-      columns: "1"
     content:
       text: |
 
@@ -47,9 +45,9 @@ sections:
         { src: "/ludopoire/img/labstuff/labstuff(6).jpg", alt: "Namtar", caption: "Origin story of the TAR family." }, 
         { src: "/ludopoire/img/labstuff/labstuff(7).jpg", alt: "Box", caption: "THAT feeling when box full = project over." },
         { src: "/ludopoire/img/labstuff/labstuff(8).jpg", alt: "Bench", caption: "Tidiest bench in the lab." },
-        { src: "/ludopoire/img/labstuff/labstuff(9).jpg", alt: "Group", caption: "100 people running on 3 hours of sleep." }, 
+        { src: "/ludopoire/img/labstuff/labstuff(9).JPG", alt: "Group", caption: "100 people running on 3 hours of sleep." }, 
         { src: "/ludopoire/img/labstuff/labstuff(10).jpg", alt: "Talk", caption: "Fastest 3 minutes of my life." }, 
-        { src: "/ludopoire/img/labstuff/labstuff(11).jpg", alt: "Plate", caption: "Highly Instagrammable pic of a failed experiment." }, 
+        { src: "/ludopoire/img/labstuff/labstuff(11).JPG", alt: "Plate", caption: "Highly Instagrammable pic of a failed experiment." }, 
         { src: "/ludopoire/img/labstuff/labstuff(12).jpg", alt: "Count", caption: "Slightly less Instagram-friendly but this one worked." }, 
         { src: "/ludopoire/img/labstuff/labstuff(13).jpg", alt: "Computer", caption: "886168 seconds runtime seems fine." }, 
         { src: "/ludopoire/img/labstuff/labstuff(14).jpg", alt: "API", caption: "Gallery working = API students (got it ?)." }, 
