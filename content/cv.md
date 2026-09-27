@@ -27,12 +27,16 @@ sections:
       title: Communications
       text: "
       **International congresses :**  <br /> 
-      [PTCOG 2026](https://ptcog64.org/), Deauville (poster) <br />  
+      [EMBO Workshop Bacterial networks 2026](https://meetings.embo.org/event/26-bacnet), Sant Feliu de Guixols (poster) <br />  
+      [International Symposium on Plasmid Biology 2026](https://plasmid-biology-2026.de/), Berlin (poster) <br />
+      [50th FEBS Congress and 25th Young Scientist’s Forum 2026](https://2026.febscongress.org/), Maastricht (poster + oral presentation) <br /> <br />  
 
       **National/internal congresses :** <br />
-      [SFBR (French Radiation Biology Society)](https://sfbr.fr/evenements-associes/congres_2024/) National Congress 2024 (oral presentation) <br />
-      [SFBR (French Radiation Biology Society)](https://sfbr.fr/evenements-associes/congres-2026/) National Congress 2026 (poster) <br />
-      [EDISS days 2025](https://ediss.universite-lyon.fr/jediss-2025-scientific-day-of-ediss-310917.kjsp) : multidisciplinary doctoral school event (poster) <br />
+      [SFM (French Microbiology Society)](https://www.alphavisa.com/sfm/2026/fr/) National Congress 2026 (poster + oral presentation) <br />
+      [Lyon Bacterial days 2026](https://www.linkedin.com/posts/inscription-au-bactolyon-2026-share-7432357086900056064-2Zr3/) (oral presentation)  <br />
+      [Décryp’thèse 2026](https://e2m2.universite-lyon.fr/decryp-these-felicitations--287690.kjsp) : multidisciplinary doctoral school event (poster) <br />
+      [CIRI](https://ciri.ens-lyon.fr/) 2025 Internal seminar (oral presentation) <br />
+      [G-RREMI 2025](https://sites.google.com/view/g-rremi/les-20-ans-du-g-rremi?authuser=0) (oral presentation) <br />
       "
   # - block: resume-skills
   #   content:
@@ -51,10 +55,9 @@ sections:
       text: |
         | Technical |  |
         |:---------|:--------|
-        | <b>Cellular Biology</b>    | Cell culture, viability assays, clonogenic assays |
-        | <b>Live-cell imaging</b>    | Immunofluorescence, Immunohistochemistry, flow cytometry |
-        | <b>Biochemistry</b>    | protein extraction, protein quantification, Western blotting |
-        | <b>In vivo models</b>    | Murine and in ovo models |
+        | <b>High-throughput biology</b>    | Large-scale assay development/optimization |
+        | <b>NGS and Genomics</b>    | Python/Bash for NGS analysis, R for data treatment |
+        | <b>Protein Science</b>    | Molecular genetics, functional characterization |
 
   - block: markdown
     content:
@@ -62,13 +65,9 @@ sections:
       text: |
         | Transversal |  |
         |:---------|:--------|
-        | <b>Organizational skills</b>    | Coordination of technical staff, planning of international collaborative projects |
-        | <b>Scientific communication</b>    | At both national and international events |'
-
-
-
-
-
+        | <b>Project management</b>    | Supervision of MSc students, board member of UCBL sports dept. for 5 years |
+        | <b>Pedagogy</b>    | 9 years  teaching, including 5 at BSc level |
+        | <b>Scientific communication</b>    | Science promotion programs (e.g. DECLICS) |'
 
   - block: markdown
     content:
@@ -92,8 +91,19 @@ sections:
       #   </div>
         |
         <p>French 🇫🇷 : Native</p>
-        <p>English 🇬🇧 : Fluent </p>
+        <p>English 🇬🇧 : Fluent (TOEIC : 990/990)</p>
+        <p>Spanish 🇪🇸 : Intermediate</p>
         <p>Italian 🇮🇹 : Intermediate</p>
+
+  - block: markdown
+    content:
+      title: Other experiences
+      text: "
+        **Volunteering** :
+          Board member of UCBL sports department for 5 years, French Basketball Federation volunteer (2020)  <br />
+        **Project management** : 
+          Led multiple sports-related, non-profit projects : created [3x3UGA](https://3x3uga.wixsite.com/3x3uga) and [Kilom'Health](https://linktr.ee/kilomhealth), member of the board for [Section Basket AS Lyon 1](https://www.instagram.com/sectionbasketaslyon1/)
+        "
 
   - block: resume-biography
     content:
