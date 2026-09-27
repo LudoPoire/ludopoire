@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: 'Ludo Poiré'
+title: 'Mathilde Tissot'
 # Website URL
-baseURL: 'https://ludopoire.github.io/ludopoire/'
+baseURL: 'https://mathildetissot.github.io/mathildetissot/'
 
 ############################
 ## LANGUAGE

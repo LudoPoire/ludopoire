@@ -8,10 +8,10 @@ main:
     identifier: home
     url: /
     weight: 10
-  - name: Papers
-    identifier: 2c5747da
-    url: /#papers
-    weight: 20
+  # - name: Papers
+  #   identifier: 2c5747da
+  #   url: /#papers
+  #   weight: 20
   # - name: News
   #   identifier: b3dde7b7
   #   url: /#news

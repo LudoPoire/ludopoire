@@ -35,26 +35,24 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My work focuses on the study of horizontal gene transfer in human pathogens, with emphasis on plasmid transfer in *Acinetobacter baumannii* and *E. coli*.
+        My work focuses on the study of the impact of radiation therapy on head and neck cancers, comparing photonic and hadrontherapy.
 
-        Through the screening of large and diverse collections of isolates, I identified a novel class of anti-plasmid immunity systems evolved by bacteria to fight against MGE infections.
+        Using in ovo and cellular models, I observed the beneficial effects of carbon ion radiation for the treatment of cancers. 
 
-        I also developed and optimized multiple high-throughput assays to quantify HGT ; and used large-scale genomics tools to perform phylogenetic analyses.
-
-        Open to learn anything that involves bacteria in some way :)
+        Open to learn anything that involves cancer research and immunology in some way :)
     design:
       columns: '2'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publications
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   # - block: collection
   #   id: talks
   #   content:
