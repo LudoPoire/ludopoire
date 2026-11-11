@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Ludo Poiré
+    name: Ludovic Poiré
     type: person
     tagline: PhD student | Microbiologist & Bacterial immunity
     description: |-
@@ -47,7 +47,7 @@ hugoblox:
   search:
     enable: true
     suggestions:
-      - LudoPoiré;Ludo;Ludovic;Poiré;Acinetobacter;baumannii;plasmids;namtar;ishtar;attar
+      - Ludovic Poiré;Ludo;Ludovic;Poiré;Acinetobacter;baumannii;plasmids;namtar;ishtar;attar
   seo:
     location:
       address:
@@ -58,7 +58,7 @@ hugoblox:
     ai:
       allow:
         - /
-    title: Ludo Poiré
+    title: Ludovic Poiré
   verification: { google: XSUABHaOWN52nmhpr5x1GlgD18Mdlxs5wno8QhNdscM, bing: "A3D404396C7A7FD1D11F3CBBD5AAE8D5" }
   analytics:
     google:
